@@ -64,3 +64,24 @@ body{
     height: 100%;
     background: #0fa361;
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #f7c43a;
+    text-align: center;
+  }
+  .footer p {
+  text-decoration: none;
+  color: #fff;
+  }
+  .footer a {
+    text-decoration: none;
+    color: #dc4c40;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+    color: #19b2f1;
+  }
